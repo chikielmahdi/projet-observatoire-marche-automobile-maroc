@@ -3,6 +3,8 @@
 Analyse de **8 097 annonces** de voitures d'occasion, prédiction du prix avec **XGBoost** et repérage des bonnes affaires dans un tableau de bord **Power BI**.
 
 **Auteur :** Elmahdi Chiki
+<img width="2301" height="1290" alt="Marche_et_prix" src="https://github.com/user-attachments/assets/b19b87e8-6f25-495e-a274-bbc87ef4cec9" />
+
 
 
 
