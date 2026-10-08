@@ -3,7 +3,7 @@
 Analyse de **8 097 annonces** de voitures d'occasion, prédiction du prix avec **XGBoost** et repérage des bonnes affaires dans un tableau de bord **Power BI**.
 
 **Auteur :** Elmahdi Chiki
-<img width="2301" height="1290" alt="Marche_et_prix" src="https://github.com/user-attachments/assets/b19b87e8-6f25-495e-a274-bbc87ef4cec9" />
+
 
 
 
@@ -35,6 +35,11 @@ powerbi/    Power\_BI.pbix
 images/     captures du tableau de bord
 data/       avito\_car\_dataset\_ALL.csv
 ```
+
+## Dashboards 
+<img width="2301" height="1290" alt="Marche_et_prix" src="https://github.com/user-attachments/assets/f0a10cb0-cf96-4102-a3ea-d7ed43658053" />
+<img width="1767" height="1497" alt="Vue_d_ensemble" src="https://github.com/user-attachments/assets/2c3392e0-358a-451f-9829-67beb787ea9e" />
+
 
 ## Utilisation
 
